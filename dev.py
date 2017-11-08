@@ -7,5 +7,5 @@ import time
 def echotime():
     print(time.asctime())
 
-print("time:")
+print("this time:")
 echotime()
